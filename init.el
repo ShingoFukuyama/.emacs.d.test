@@ -109,8 +109,7 @@
               "/usr/bin"
               "/usr/local/bin"
               "/usr/texbin"
-              (expand-file-name "~/.nvm/v0.8.11/bin")
-              (expand-file-name "~/.nvm/v0.10.22/bin")
+              (expand-file-name "~/.nvm/v0.10.24/bin")
               (expand-file-name "~/.zsh.d")
               (expand-file-name "~/.emacs.d/lib/bin")
               "/opt/local/bin" ;;csslint
